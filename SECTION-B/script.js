@@ -1,5 +1,5 @@
 
-let future = new Date("Jan 16, 2026 8:24:52").getTime();
+let future = new Date("Dec 31, 2026 8:24:52").getTime();
 function updateCountdown() {
 
 
